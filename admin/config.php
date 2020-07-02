@@ -10,7 +10,7 @@ $bd_config = array(
 );
 
 $blog_config = array(
-    'post-por-pagina' => '2',
+    'post_x_pagina' => '2',
     'carpeta_imagenes' => 'imagenes/'
 ); 
 
